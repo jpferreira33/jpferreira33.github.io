@@ -1,0 +1,60 @@
+---
+title: "Research"
+---
+
+My research focuses on design-based inference and machine-learning-assisted
+estimators for finite populations, inference from non-probability samples, and
+small-area estimation, with an emphasis on official statistics.
+
+## Preprints
+
+- Ferreira, J. P. (2026). **Direct domain estimation via regression-tree-assisted
+  estimators in the production of official statistics.** arXiv:2606.08289 [stat.ME].
+  <https://arxiv.org/abs/2606.08289>
+
+- Ferreira, J. P., & Goyeneche, J. J. (2026). **Weighting a Census as a
+  Non-Probability Sample: A Doubly Robust Framework for Correcting Differential
+  Undercoverage in Uruguay's 2023 Census.** arXiv:2606.05666 [stat.ME].
+  <https://arxiv.org/abs/2606.05666>
+
+- Ferreira, J. P. (2026). **weightflow: Declarative Staged Survey Weighting and
+  Recipe-Aware Variance Estimation in R.** Working paper.
+  <!-- add arXiv link once submitted -->
+
+## Publications
+
+- Bisogno, M., Ferreira, J. P., & Goyeneche, J. J. (2026). Weighting the 2023
+  Uruguay Census: Correcting Omission Through Doubly Robust Estimators.
+  *The Survey Statistician*, 93, 84. International Association of Survey
+  Statisticians.
+
+- Ferreira, J. P., & Galmez, M. (2022). Uruguay adopts a new methodology for its
+  Continuous Household Survey (CHS). *The Survey Statistician*, 86, 64.
+  International Association of Survey Statisticians.
+
+- Ferreira, J. P. (2021). *Metodología de la Encuesta Continua de Hogares (ECH).*
+  Instituto Nacional de Estadística (INE), Uruguay.
+
+## Technical reports
+
+- *Weighting the 2023 Census: Census Omission Weights Report.* Instituto Nacional
+  de Estadística (INE), Uruguay.
+  [PDF](https://www5.ine.gub.uy/documents/CENSO%202023/census_omission_weights_report_en.pdf)
+
+## Software
+
+- **weightflow**: declarative staged survey weighting and recipe-aware variance
+  estimation in R. [Documentation](https://jpferreira33.github.io/weightflow/) ·
+  [Source](https://github.com/jpferreira33/weightflow)
+
+## Service
+
+- Committee member (tribunal), undergraduate thesis on the R package *metasurvey*
+  (M. Loprete, tutor N. da Silva), Licenciatura en Estadística, Universidad de la
+  República, December 2024.
+
+## Interests
+
+Survey sampling and weighting · official statistics · design-based inference ·
+machine-learning-assisted estimators · inference from non-probability samples ·
+small-area estimation.

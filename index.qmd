@@ -1,0 +1,52 @@
+---
+title: "Juan Pablo Ferreira"
+about:
+  template: trestles
+  image: profile.png
+  image-shape: rounded
+  links:
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=b61hYwoAAAAJ&hl=en
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-1884-8187
+    - icon: github
+      text: GitHub
+      href: https://github.com/jpferreira33
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/juan-pablo-ferreira-4485166b/
+    - icon: twitter
+      text: X
+      href: https://x.com/jpferreira2311
+    - icon: envelope
+      text: Email
+      href: mailto:juanpablo.ferreira@fcea.edu.uy
+---
+
+I am an Associate Professor at the Institute of Statistics, School of Economics
+and Administration, Universidad de la República (UdelaR), where I teach Survey
+Sampling and Weighting, Data Science, and Introduction to Statistical Methods in
+the Bachelor's Degree in Statistics. Since 2020 I am the Director of Methodology,
+Research, and Projects at the National Institute of Statistics (INE) of Uruguay.
+
+I have extensive experience in the design and implementation of statistical
+methodologies for official surveys, and in the production of statistical
+information from administrative data and other alternative sources. My research
+focuses on design-based inference and machine-learning-assisted estimators for
+finite populations, inference from non-probability samples, and small-area
+estimation. I am the author of the R package [weightflow](software.qmd), which
+brings these ideas together in a declarative tool for staged survey weighting
+and variance estimation.
+
+## Research and professional interests
+
+- Survey sampling and weighting
+- Official statistics
+- Design-based inference
+- Machine-learning-assisted estimators
+- Inference from non-probability samples
+- Small-area estimation
+
+

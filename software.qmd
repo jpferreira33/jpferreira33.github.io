@@ -1,0 +1,23 @@
+---
+title: "Software"
+---
+
+## weightflow
+
+A dependency-free R package for **staged survey weighting**: a declarative,
+pipeable API that chains the full adjustment cascade (unknown eligibility,
+nonresponse, within-household selection, calibration, including model-assisted
+calibration) and estimates variances with a bootstrap that re-applies the whole
+recipe on each replicate.
+
+- **Documentation and articles:** <https://jpferreira33.github.io/weightflow/>
+- **Source code:** <https://github.com/jpferreira33/weightflow>
+
+```r
+# install.packages("remotes")
+remotes::install_github("jpferreira33/weightflow")
+```
+
+The package reproduces the `survey` package on the methods they share
+(post-stratification, raking, GREG) and adds the staged cascade and a
+recipe-aware bootstrap on top.

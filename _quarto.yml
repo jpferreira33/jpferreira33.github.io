@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Juan Pablo Ferreira"
+  description: "Survey methodology, sampling, and statistical software"
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - text: Software
+        href: software.qmd
+      - text: Research
+        href: research.qmd
+      - icon: github
+        href: https://github.com/jpferreira33
+      - icon: envelope
+        href: mailto:juanpablo.ferreira@fcea.edu.uy
+  page-footer:
+    center: "© 2026 Juan Pablo Ferreira · Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    page-layout: full

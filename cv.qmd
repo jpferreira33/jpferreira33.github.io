@@ -1,0 +1,15 @@
+---
+title: "CV"
+---
+
+A PDF version of my CV is available [here](cv.pdf).
+<!-- Put your cv.pdf in this folder, or remove this page from _quarto.yml. -->
+
+## Education
+- (add here)
+
+## Positions
+- Facultad de Ciencias Económicas y de Administración, Universidad de la República.
+
+## Software
+- `weightflow` — R package for staged survey weighting.
