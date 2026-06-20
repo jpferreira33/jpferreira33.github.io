@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A PDF version of my CV is available here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\n(add here)"
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "CV",
+    "section": "Positions",
+    "text": "Positions\n\nFacultad de Ciencias Económicas y de Administración, Universidad de la República."
+  },
+  {
+    "objectID": "cv.html#software",
+    "href": "cv.html#software",
+    "title": "CV",
+    "section": "Software",
+    "text": "Software\n\nweightflow — R package for staged survey weighting."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Juan Pablo Ferreira",
+    "section": "",
+    "text": "I am an Associate Professor at the Institute of Statistics, School of Economics and Administration, Universidad de la República (UdelaR), where I teach Survey Sampling and Weighting, Data Science, and Introduction to Statistical Methods in the Bachelor’s Degree in Statistics. Since 2020 I am the Director of Methodology, Research, and Projects at the National Institute of Statistics (INE) of Uruguay.\nI have extensive experience in the design and implementation of statistical methodologies for official surveys, and in the production of statistical information from administrative data and other alternative sources. My research focuses on design-based inference and machine-learning-assisted estimators for finite populations, inference from non-probability samples, and small-area estimation. I am the author of the R package weightflow, which brings these ideas together in a declarative tool for staged survey weighting and variance estimation."
+  },
+  {
+    "objectID": "index.html#research-and-professional-interests",
+    "href": "index.html#research-and-professional-interests",
+    "title": "Juan Pablo Ferreira",
+    "section": "Research and professional interests",
+    "text": "Research and professional interests\n\nSurvey sampling and weighting\nOfficial statistics\nDesign-based inference\nMachine-learning-assisted estimators\nInference from non-probability samples\nSmall-area estimation"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on design-based inference and machine-learning-assisted estimators for finite populations, inference from non-probability samples, and small-area estimation, with an emphasis on official statistics."
+  },
+  {
+    "objectID": "research.html#preprints",
+    "href": "research.html#preprints",
+    "title": "Research",
+    "section": "Preprints",
+    "text": "Preprints\n\nFerreira, J. P. (2026). Direct domain estimation via regression-tree-assisted estimators in the production of official statistics. arXiv:2606.08289 [stat.ME]. https://arxiv.org/abs/2606.08289\nFerreira, J. P., & Goyeneche, J. J. (2026). Weighting a Census as a Non-Probability Sample: A Doubly Robust Framework for Correcting Differential Undercoverage in Uruguay’s 2023 Census. arXiv:2606.05666 [stat.ME]. https://arxiv.org/abs/2606.05666\nFerreira, J. P. (2026). weightflow: Declarative Staged Survey Weighting and Recipe-Aware Variance Estimation in R. Working paper."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nBisogno, M., Ferreira, J. P., & Goyeneche, J. J. (2026). Weighting the 2023 Uruguay Census: Correcting Omission Through Doubly Robust Estimators. The Survey Statistician, 93, 84. International Association of Survey Statisticians.\nFerreira, J. P., & Galmez, M. (2022). Uruguay adopts a new methodology for its Continuous Household Survey (CHS). The Survey Statistician, 86, 64. International Association of Survey Statisticians.\nFerreira, J. P. (2021). Metodología de la Encuesta Continua de Hogares (ECH). Instituto Nacional de Estadística (INE), Uruguay."
+  },
+  {
+    "objectID": "research.html#technical-reports",
+    "href": "research.html#technical-reports",
+    "title": "Research",
+    "section": "Technical reports",
+    "text": "Technical reports\n\nWeighting the 2023 Census: Census Omission Weights Report. Instituto Nacional de Estadística (INE), Uruguay. PDF"
+  },
+  {
+    "objectID": "research.html#software",
+    "href": "research.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\n\nweightflow: declarative staged survey weighting and recipe-aware variance estimation in R. Documentation · Source"
+  },
+  {
+    "objectID": "research.html#service",
+    "href": "research.html#service",
+    "title": "Research",
+    "section": "Service",
+    "text": "Service\n\nCommittee member (tribunal), undergraduate thesis on the R package metasurvey (M. Loprete, tutor N. da Silva), Licenciatura en Estadística, Universidad de la República, December 2024."
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "Interests",
+    "text": "Interests\nSurvey sampling and weighting · official statistics · design-based inference · machine-learning-assisted estimators · inference from non-probability samples · small-area estimation."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
+  },
+  {
+    "objectID": "software.html#weightflow",
+    "href": "software.html#weightflow",
+    "title": "Software",
+    "section": "",
+    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
+  }
+]
