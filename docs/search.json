@@ -35,41 +35,6 @@
     "text": "I am an Associate Professor at the Institute of Statistics, School of Economics and Administration, Universidad de la República (UdelaR), where I teach Survey Sampling and Weighting, Data Science, and Introduction to Statistical Methods in the Bachelor’s Degree in Statistics. Since 2020 I am the Director of Methodology, Research, and Projects at the National Institute of Statistics (INE) of Uruguay.\nI have extensive experience in the design and implementation of statistical methodologies for official surveys, and in the production of statistical information from administrative data and other alternative sources. My research focuses on design-based inference and machine-learning-assisted estimators for finite populations, inference from non-probability samples, and small-area estimation. I am the author of the R package weightflow, which brings these ideas together in a declarative tool for staged survey weighting and variance estimation."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research focuses on design-based inference and machine-learning-assisted estimators for finite populations, inference from non-probability samples, and small-area estimation, with an emphasis on official statistics."
-  },
-  {
-    "objectID": "research.html#preprints-and-papers",
-    "href": "research.html#preprints-and-papers",
-    "title": "Research",
-    "section": "",
-    "text": "weightflow: Declarative Staged Survey Weighting and Recipe-Aware Variance Estimation in R. Juan Pablo Ferreira (2026). Preprint."
-  },
-  {
-    "objectID": "research.html#interests",
-    "href": "research.html#interests",
-    "title": "Research",
-    "section": "Interests",
-    "text": "Interests\nSurvey sampling and weighting · official statistics · design-based inference · machine-learning-assisted estimators · inference from non-probability samples · small-area estimation."
-  },
-  {
-    "objectID": "software.html",
-    "href": "software.html",
-    "title": "Software",
-    "section": "",
-    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
-  },
-  {
-    "objectID": "software.html#weightflow",
-    "href": "software.html#weightflow",
-    "title": "Software",
-    "section": "",
-    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
-  },
-  {
     "objectID": "index.html#research-and-professional-interests",
     "href": "index.html#research-and-professional-interests",
     "title": "Juan Pablo Ferreira",
@@ -77,11 +42,11 @@
     "text": "Research and professional interests\n\nSurvey sampling and weighting\nOfficial statistics\nDesign-based inference\nMachine-learning-assisted estimators\nInference from non-probability samples\nSmall-area estimation"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Juan Pablo Ferreira",
-    "section": "Education",
-    "text": "Education\n\nPhD candidate in Data Science, Universidad Loyola, Spain\nMSc in Analysis and Management of Big Data, UEMC, Spain\nMSc in Applied Statistics, UNED, Spain\nBSc in Statistics, UdelaR, Uruguay"
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on design-based inference and machine-learning-assisted estimators for finite populations, inference from non-probability samples, and small-area estimation, with an emphasis on official statistics."
   },
   {
     "objectID": "research.html#preprints",
@@ -117,5 +82,26 @@
     "title": "Research",
     "section": "Service",
     "text": "Service\n\nCommittee member (tribunal), undergraduate thesis on the R package metasurvey (M. Loprete, tutor N. da Silva), Licenciatura en Estadística, Universidad de la República, December 2024."
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "Interests",
+    "text": "Interests\nSurvey sampling and weighting · official statistics · design-based inference · machine-learning-assisted estimators · inference from non-probability samples · small-area estimation."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
+  },
+  {
+    "objectID": "software.html#weightflow",
+    "href": "software.html#weightflow",
+    "title": "Software",
+    "section": "",
+    "text": "A dependency-free R package for staged survey weighting: a declarative, pipeable API that chains the full adjustment cascade (unknown eligibility, nonresponse, within-household selection, calibration, including model-assisted calibration) and estimates variances with a bootstrap that re-applies the whole recipe on each replicate.\n\nDocumentation and articles: https://jpferreira33.github.io/weightflow/\nSource code: https://github.com/jpferreira33/weightflow\n\n# install.packages(\"remotes\")\nremotes::install_github(\"jpferreira33/weightflow\")\nThe package reproduces the survey package on the methods they share (post-stratification, raking, GREG) and adds the staged cascade and a recipe-aware bootstrap on top."
   }
 ]
